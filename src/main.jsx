@@ -6,8 +6,8 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import './index.css'
-import Home from './Home/Home.jsx';
 import Error from './Error/Error.jsx';
+import FindDoctor from './FindDoctor.jsx';
 
 const router = createBrowserRouter([
   {
@@ -17,7 +17,7 @@ const router = createBrowserRouter([
     children: [
       {
         path: "/",
-        element: <Home/>
+        element: <FindDoctor/>
       },
     ],
   },

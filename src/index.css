@@ -4,24 +4,19 @@
 
 
 
-
-
-.bg {
-    position: relative;
-}
-
-.bg::before {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    content: "";
-    background: linear-gradient(90.17deg, rgba(18, 18, 18, 0.88) 1.03%, rgba(18, 18, 18, 0.92) 44.18%, rgba(1, 1, 1, 0) 95.15%);
-}
-
 .bg2{
     background: rgba(58, 100, 59, 0.12);
 }
 
+.bg3{
+    background: linear-gradient(90deg, #F4F7EC 0%, rgba(248, 248, 247, 0.46) 100%);
+}
+
+.hero-image {
+    background-image: url("../public/images/FindBanner.png");
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
