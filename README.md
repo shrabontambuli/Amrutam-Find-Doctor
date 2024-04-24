@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # Amrutam
 
 # Live Link:   https://amrutam-zeta.vercel.app/
+# Amrutam-Find-Doctor
