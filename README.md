@@ -8,5 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Amrutam
 
-# Live Link:   https://amrutam-zeta.vercel.app/
-# Amrutam-Find-Doctor
+# Amrutam-Find Doctors2
+# Live Link: [https://amrutam-find-doctor2.vercel.app/](https://amrutam-find-doctor.vercel.app/)
